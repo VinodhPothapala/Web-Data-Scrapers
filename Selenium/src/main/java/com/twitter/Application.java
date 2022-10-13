@@ -35,8 +35,8 @@ import java.util.logging.Level;
 
 public class Application {
 
-	static String userName="brsandhya.1997@gmail.com";
-	static String passWord="Sandhy@525";
+	static String userName="abcd";
+	static String passWord="xxxx";
 
 //	static String userName="davidwarner2306@gmail.com";
 //	static String passWord="";
