@@ -35,8 +35,8 @@ import java.util.logging.Level;
 
 public class Application {
 
-    static String userName = "sbalu3";
-    static String passWord = "Sandhy@525";
+    static String userName = "abcd";
+    static String passWord = "xxxx";
     static String redditBaseURL = "https://reddit.com/";
     static String login = "login";
     static String home = "home";
